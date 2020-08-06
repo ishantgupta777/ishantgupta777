@@ -11,6 +11,7 @@
 - 💡 Occasionally I do participate in Hackathons
 
 ### Connect with me:
+---
 [![Website Badge](https://img.shields.io/badge/-ishantgupta.in-FEC007)](https://ishantgupta.in "Visit Website")
 [![Gmail Badge](https://img.shields.io/badge/-ishantgupta777-c44038?logo=Gmail&logoColor=white)](mailto:ishantgupta777@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-ishantgupta777-2867B2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishantgupta777/ "Connect on LinkedIn")
@@ -18,13 +19,11 @@
 [![Follow Badge](https://img.shields.io/badge/-Follow-333333?logo=GitHub&logoColor=white)](https://github.com/ishantgupta777/?tab=follow "Follow on GitHub")
 <br />
 <br />
-<br />
 
 ---
 
-<br />
-
 ### Languages and Tools:
+---
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -45,12 +44,9 @@
 
 <br />
 <br />
-<br />
-<br />
 
 ## Some of my Github Public Stats
-<br />
-
+---
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ishantgupta777&show_icons=true&hide_border=tru&&theme=tokyonight&hide=stars&count_private=true)](https://github.com/ishantgupta777?tab=follow)
 
