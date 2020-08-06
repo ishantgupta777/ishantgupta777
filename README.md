@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ishant](https://ishantgupta.in/)🚶‍♂👋 
 
-<img src='https://i.ibb.co/DkKRmFS/Add-a-heading.gif' width='100%' />
+<img src='https://s7.gifyu.com/images/Add-a-headingfe229d2a2ac4ab56.gif' width='100%' />
 
 ## I'm
 - 🔭 🏫 a third Year CSE student at @BITS_PILANI
