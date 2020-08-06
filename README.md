@@ -11,11 +11,11 @@
 - 💡 Occasionally I do participate in Hackathons
 
 ### Connect with me:
-[![Website Badge](https://img.shields.io/badge/-ishantgupta.in-FEC007)](https://www.instagram.com/im_ishant_/)
+[![Website Badge](https://img.shields.io/badge/-ishantgupta.in-FEC007)](https://ishantgupta.in "Visit Website")
 [![Gmail Badge](https://img.shields.io/badge/-ishantgupta777-c44038?logo=Gmail&logoColor=white)](mailto:ishantgupta777@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-ishantgupta777-2867B2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishantgupta777/ "Connect on LinkedIn")
 [![Instagram Badge](https://img.shields.io/badge/-im__ishant__-fe4164?logo=Instagram&logoColor=white)](https://www.instagram.com/im_ishant_/ "Connect via Insta")
-[![Follow Badge](https://img.shields.io/badge/-Follow-333333?logo=GitHub&logoColor=white)](ttps://github.com/ishantgupta777/?tab=follow "Follow on GitHub")
+[![Follow Badge](https://img.shields.io/badge/-Follow-333333?logo=GitHub&logoColor=white)](https://github.com/ishantgupta777/?tab=follow "Follow on GitHub")
 <br />
 <br />
 <br />
