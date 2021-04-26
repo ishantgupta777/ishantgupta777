@@ -6,7 +6,7 @@
 - 🔭 🏫 a third Year CSE student at @BITS_PILANI
 - 🌱 a Full-Stack developer 💯
 - 🥅 Chief Coordinator of DevSoc BITS GOA
-- 👯 working at The Caarya Experience 👷‍♀️
+- 👯 working at SDE intern @ Almbase 👷‍♀️
 - 🧯 Ask me about any react, react native, node or any web related tech.
 - 💡 Occasionally I do participate in Hackathons
 
