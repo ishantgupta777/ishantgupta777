@@ -1,14 +1,14 @@
-### Hi there, I'm [Ishant](https://ishantgupta.in/)🚶‍♂👋 
+### Hi there, I'm [Ishant](https://ishantgupta.com/)🚶‍♂👋 
 
 <img src='https://s7.gifyu.com/images/Add-a-headingfe229d2a2ac4ab56.gif' width='100%' />
 
 ## I'm
-- 🔭 🏫 a third Year CSE student at @BITS_PILANI
-- 🌱 a Full-Stack developer 💯
-- 🥅 Chief Coordinator of DevSoc BITS GOA
-- 👯 working as SDE intern @ Almbase 👷‍♀️
-- 🧯 Ask me about any react, react native, node or any web related tech.
-- 💡 Occasionally I do participate in Hackathons
+- 🔭 Seinor Software Engineer with three+ years of experience in full stack development
+- 🏫 Graduated from @BITS_PILANI with a degree in CSE
+- 🌱 Founder of FinVedas - an innovative startup in the financial education industry
+- 🥅 Passionate about building full-stack web applications and empowering individuals with financial knowledge
+- 💡 Experienced in React, React Native, Node.js, and various web technologies
+- 🧯 Enthusiastic participant in hackathons and constantly seeking new challenges
 
 ### Connect with me:
 ---
